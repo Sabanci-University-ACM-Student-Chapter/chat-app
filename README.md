@@ -1,2 +1,2 @@
-# chat-app
-A simple chat app for SUACM WorkShop, developed at 19.11.20
+# chatapp
+Chat App for beginners, written on 19.11.2020 Sabanci University Workshop
