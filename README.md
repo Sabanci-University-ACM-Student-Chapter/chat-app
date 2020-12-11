@@ -1,5 +1,5 @@
 # Chat App 
-A simple chat app for SUACM WorkShop, developed at 19.11.20
+A simple chat app for SUACM WorkShop, developed at 19.11.20 and conducted by Batuhan Isildak [GitHub](https://github.com/Fexyler)
 
 ## Demo 🚈
 For live demo : https://chatapp-6a33peppk.vercel.app/
