@@ -30,5 +30,7 @@ npm install
 npm start
 ```
 5. Serve the Client
+
+
 You can use services like APACHE, NGINX or just click the index.html file!
 
