@@ -31,6 +31,8 @@ npm start
 ```
 5. Serve the Client
 
-
+```bash
 You can use services like APACHE, NGINX or just click the index.html file!
+````
+
 
